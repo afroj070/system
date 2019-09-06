@@ -1,0 +1,8 @@
+{
+    "name": "Stride/System",
+    "description": "stride community standard system configuration",
+    "autoload" : {
+        "psr-4": { "Stride\\System\\" : "" }
+    },
+    "minimum-stability":"dev"
+}
