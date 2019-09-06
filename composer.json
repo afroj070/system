@@ -1,5 +1,5 @@
 {
-    "name": "Stride/System",
+    "name": "stride/system",
     "description": "stride community standard system configuration",
     "autoload" : {
         "psr-4": { "Stride\\System\\" : "" }
